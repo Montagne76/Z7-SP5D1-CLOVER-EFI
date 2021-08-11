@@ -8,7 +8,7 @@
 | --- | ---
 | 电脑型号 | 神舟 Z7-SP5D1
 | SystemModel | P65xRP
-| 处理器          | 英特尔 酷睿 i5-6300hq 处理器  
+| 处理器          | 英特尔 酷睿 i5-6300HQ 处理器  
 | 核显 | Intel(R) HD Graphics 530
 | 独显 | GeForce GTX 1060 (6 GB)
 | 声卡     | Realtek ALC892
