@@ -37,8 +37,5 @@
 |写盘工具|Transmac
 |添加引导|EASYUEFI
 |分区工具|Diskgenius
-|显卡驱动|WebDriver-387.10.10.10.40.105_macOS High Sierra 10.13.6 (17G65).pkg，macOS 中安装
-|WiFi客户端|HeliPort_v1.4.1.dmg，配合 itlwn 驱动 WiFi，macOS 中安装
-
-
-
+|显卡驱动|[WebDriver-387.10.10.10.40.105_macOS High Sierra 10.13.6 (17G65).pkg](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-Quadro-GeForce-Graphics-Driver-387-10-10-10-40-105-macOS-High-Sierra.shtml "WebDriver-387.10.10.10.40.105_macOS High Sierra 10.13.6 (17G65).pkg")，macOS 中安装
+|WiFi客户端|[HeliPort_v1.4.1.dmg](https://github.com/OpenIntelWireless/HeliPort "HeliPort_v1.4.1.dmg")，配合 [itlwn](https://github.com/OpenIntelWireless/itlwm "itlwn") 驱动 WiFi，macOS 中安装
